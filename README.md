@@ -1,2 +1,8 @@
-# Bi-capita-
-Bi capita 
+# BiCaption
+
+# An ultimate photography site.
+
+Current Status -> Models being added...😉.
+
+
+shared!!!
